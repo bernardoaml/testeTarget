@@ -1,0 +1,11 @@
+Deixo aqui uma explicação breve da minha lógica para cada questão:
+
+Questão 1 : Cálculo da SOMA: Implementei um loop while que incrementa o valor de K e acumula este valor em SOMA, resultando no total 91.
+
+Questão 2 : Realizei uma verificação na sequência de Fibonacci: Criei uma função que calcula os números da sequência iterativamente e verifica se o número informado pertence a ela.
+
+Questão 3 : Realizei uma análise de faturamento diário: Filtrei os dias com faturamento positivo, calculei o menor e maior valores, a média dos faturamentos, e contei os dias acima da média.
+
+Questão 4 : Percentual de faturamento por estado: Calculei o total do faturamento e o percentual de contribuição de cada estado em relação ao total, exibindo os resultados formatados.
+
+Questão 5 : Inversão de string: Desenvolvi uma função que reverte os caracteres de uma string iterativamente, sem usar funções prontas como reverse.
